@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BJ88 - bj88com.info - Đỉnh Cao Của Trải Nghiệm Cá Cược Trực Tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `BJ88 <https://bj88com.info/>`_ là một nền tảng cá cược trực tuyến hàng đầu, nổi bật với sự đa dạng trong các trò chơi và dịch vụ được cung cấp. Được thành lập với mục tiêu mang đến trải nghiệm cá cược tuyệt vời cho người dùng, BJ88 sở hữu một bộ sưu tập phong phú gồm các trò chơi casino, thể thao, xổ số và game bài. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+BJ88 cam kết đảm bảo tính minh bạch, công bằng và an toàn cho người chơi thông qua các công nghệ bảo mật tiên tiến và hệ thống quản lý nghiêm ngặt. Bên cạnh đó, BJ88 còn thu hút người dùng bằng những chương trình khuyến mãi hấp dẫn và dịch vụ chăm sóc khách hàng chuyên nghiệp, sẵn sàng hỗ trợ 24/7. Với những ưu điểm vượt trội này, BJ88 xứng đáng là sự lựa chọn hàng đầu cho những ai yêu thích cá cược trực tuyến.
 
-.. note::
+Địa chỉ: 12A Hẻm Số 5 Mễ Cốc, Phường 15, Quận 8, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0731364798. 
 
-Contents
---------
+Email: info@bj88com.info. 
 
-.. toctree::
+Website: https://bj88com.info/
 
-   usage
-   api
+#bj88 #nhacaibj88 #trangchubj88 #dangkybj88 #linkbj88
